@@ -1,0 +1,1 @@
+SELECT * FROM get_last_balance_operations_and_amount();

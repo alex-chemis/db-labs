@@ -1,0 +1,1 @@
+SELECT * FROM get_balances_with_profit_comparison(1, 2);

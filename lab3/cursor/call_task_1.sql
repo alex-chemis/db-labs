@@ -1,0 +1,1 @@
+SELECT * FROM calculate_percentage_by_item('2023-08-13', '2023-12-13', ARRAY[1, 2, 3, 4], 'amount');
